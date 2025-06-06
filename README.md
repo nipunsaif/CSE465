@@ -4,6 +4,8 @@
 * Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning-MIT Press (2016)
 
 ## Readings 
+* PyTorch - https://pytorch.org/
+* PyTorch Forum - https://discuss.pytorch.org/
 * Zero to Mastery Learn PyTorch for Deep Learning - https://www.learnpytorch.io/
 
 ## Tutorials
