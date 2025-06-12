@@ -7,6 +7,7 @@
 * PyTorch - https://pytorch.org/
 * PyTorch Forum - https://discuss.pytorch.org/
 * Zero to Mastery Learn PyTorch for Deep Learning - https://www.learnpytorch.io/
+* Stanford CS230 - https://stanford.edu/~shervine/teaching/cs-230/
 
 ## Tutorials
 * PyTorch for Deep Learning & Machine Learning – Full Course - https://youtu.be/V_xro1bcAuA?si=X-wF7ti64tisZDo4
